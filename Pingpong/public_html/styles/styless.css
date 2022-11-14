@@ -1,0 +1,22 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : Nov. 10, 2022, 8:04:16 p.m.
+    Author     : gurbirbains
+*/
+
+
+body { //features of the webpage
+    
+    margin: 0;
+    background-color: lightslategray;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: fantasy;
+    min-height: 100vh;
+}
